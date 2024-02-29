@@ -1,5 +1,8 @@
-git config--global user.name 'theleaker22'
-git config--global user.email'davidhiripi22@yahoo.com'
+echo .DS_Store >>~/ .gitignore_global
+git config --global core.excludesfile~/ .gitignore_global
+
+
+
 
 
 <!---
